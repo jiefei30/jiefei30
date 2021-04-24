@@ -21,7 +21,7 @@ https://twitter.com/jiefei30
 https://t.me/jiefei30  
 https://space.bilibili.com/4449891 
 
-[![](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=jiefei30&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=jiefei30&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiefei30&layout=compact&hide=html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=jiefei30&layout=compact&hide=html,css)
+[![jiefei30](https://github-readme-stats.vercel.app/api?username=jiefei30&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=jiefei30&show_icons=true&theme=tokyonight)
+[![jiefei30](https://github-readme-stats.vercel.app/api/top-langs/?username=jiefei30&layout=compact&hide=html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=jiefei30&layout=compact&hide=html,css)
 
 ![jiefei30](https://count.getloli.com/get/@jiefei30?theme=moebooru)
