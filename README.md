@@ -16,7 +16,7 @@ Like playing basketball🏀, drawing✏️, and playing video games🎮
 
 **目光所至，心之所向，欢迎交♂朋友🥰**
 
-https://jiefei.zone | https://makeyourchoice.cn  
+http://jiefei.zone | https://makeyourchoice.cn  
 https://twitter.com/jiefei30  
 https://t.me/jiefei30  
 https://space.bilibili.com/4449891 
