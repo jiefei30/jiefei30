@@ -1,8 +1,6 @@
-## 你好呀 👋 我是皆非
+## Hi 👋 This is JieFei
 
-### Hi 👋 This is JieFei
-
-**原通信工程📡，现主计算机方向🖥️**  
+**Communication Engineering📡，& computer science and Technology🖥️**  
 
 **喜欢打篮球🏀、画画✏️、玩游戏🎮**  
 
