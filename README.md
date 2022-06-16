@@ -2,7 +2,8 @@
 
 **Communication Engineering📡 & Computer Science and Technology🖥️**  
 
-**At present, the main research and development is SQL Lineage Parser that used in Calcite, Druid and Presto. But much more than that**
+**At present, the main research and development is The SQL Lineage Parser,
+which used in Calcite, Druid and Presto. But much more than that**
 
 **Also interested in basketball🏀、drawing✏️、video games🎮**  
 
