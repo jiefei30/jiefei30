@@ -4,7 +4,7 @@
 
 **At present, the main research and development is SQL Parser,  
 which used in Calcite, Presto and some other dynamic data management framework.  
-To build top1 data-lineage-extractor tool and create Knowledge Graph**
+To build top1 sql-lineage-extractor tool and create Knowledge Graph with it**
 
 **Also interested in basketball🏀、drawing✏️、video games🎮**  
 
