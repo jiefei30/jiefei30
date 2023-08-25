@@ -1,6 +1,6 @@
 ## Hi 👋 This is JieFei
 
-**At present, the main research is SQL Parser,  which used in Calcite, Trino 
+**At present, the main study is SQL Parser,  which used in Calcite, Trino 
 and some other dynamic data management framework. To build top1 sql-lineage-extractor tool and create Knowledge Graph with it**
 
 **Also interested in basketball🏀、drawing✏️、video games🎮**  
