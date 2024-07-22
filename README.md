@@ -1,6 +1,6 @@
 ## Hi 👋 This is JieFei
 
-My main work is SQL Parser, SQL Lineage Analysis, Meterialized View. 
+My main work is SQL Parser, SQL Lineage Analysis, Materialized View. 
 
 To create top1 operator-level SQL-lineage analysis tool and build knowledge graph with it.
 
