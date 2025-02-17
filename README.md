@@ -1,6 +1,8 @@
 ## Hi 👋 This is JieFei
 
-My main work is SQL Parser, SQL Lineage Analysis, Partitioned materialized view construction. 
+My main work is Data Governance. 
+
+Including SQL Parser, SQL Lineage Analysis and knowledge graph construction of private domain data assets.
 
 To create top1 operator-level lineage analysis tool and build knowledge graph with it.
 
